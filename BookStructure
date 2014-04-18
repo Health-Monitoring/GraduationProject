@@ -1,0 +1,64 @@
+                                                 				Book Structure
+
+* Introduction to Health Monitoring 		Mohamed Saied 
+Part 1:
+Chapter 1 -ANDROID & IOIO Hardware/Software Interface
+1.1 Introduction to ANDROID 			Mohammed 3ta		
+1.2 ANDROID GUI -Activity Class-		Ahmed Ibrahim & Mohammed 3ta
+1. What's IOIO ?				Ahmed Ibrahim
+1.5 IOIO Interface with ANDROID		Mohamed Gamal
+Chapter 2 -Sensors 
+2.1 Pulse Sensor				Mohammed 3ta
+2.2 Pulse sensor with IOIO			Mohammed 3ta
+2.3 Temperature sensor				Mohamed Gamal
+2.4 Temperature sensor with IOIO		Ahmed Ibrahim
+2.5 Important IOIO Libraries 			Ahmed Ibrahim
+Chapter 3 - Server	
+3.1 What's a server ?				Ahmed abdellah
+3.2 Introduction to server types			Ahmed abdellah
+3.3 Debian Server Configuration			Ahmed abdellah
+3.4 User Interface-HTML-                        		Hisham
+
+
+Part 2 :Image & Video Processing
+
+Chapter 4 - Theoretical workflow
+
+4.1 Introduction to Photo- plethysmography  (PPG)		Hazem Ali
+4.2 Super Seeing technique					Mohamed Saied
+4.3 Image and Video Processing in Spatial Domain		Asmaa Ahmed
+4.4 Image and Video Processing In Frequency domain		Yomna Magdy
+4.5 Eulerian Video Magnification				Asmaa Ahmed
+
+Chapter 5- Implementation Resources
+
+5.1 What's Open Source?					Yomna Magdy
+5.2 Why opencv?						Yomna Magdy
+5.3 Video Processing using OpenCV				Yomna Magdy
+
+Chapter 6- Pulse Detection
+
+6.1 Advantages of Pulse detection using PPG rather than ECG     Hazem
+6.2 Pulse Detection Algorithm	        			              Hazem
+6.3 Face detection						Mohamed Saied
+6.4 Pulse estimation 						Hazem
+6.5 BPM Calculation						Hazem
+
+Appendix [ Including source codes and references ]
+
+Note 1 * All points may include sub points which can be recognized and edited by the writter
+
+Note 2 * Writers should use Sub version Repository on sourceforge
+	https://sourceforge.net/projects/graduationproject/files/Book/
+
+Note 3 * All Files are written then uploaded in Word Format with Font of 12
+Note 4 * Starting Writing and uploading After Midterm exams
+
+		Good luck in Exams
+					Mohamed Saied
+
+
+
+
+
+
